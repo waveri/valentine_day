@@ -13,20 +13,23 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "What if I asked really nicely?",
+      "SACHHI???",
+      "Sachhi mucchii? :(",
+      "erom korbi amr sathe?",
+      "moteo bhalo basish na amk?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
       "PLEASE POOKIE",
+      "i'll cry a river for you babe please :*(",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "abb toh haan bol de meh marr rha hun",
+      "ok ur talking to Baptishh's ghost",
+      "ami kintu gelam sesh hyee",
+      "gulab jamun aisaa na krr yaar",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "your favourite fan is officially ded",
       "No :(",
     ];
 
@@ -38,7 +41,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you NEELOVERRRR!! ;))</div>
         </>
       ) : (
         <>
